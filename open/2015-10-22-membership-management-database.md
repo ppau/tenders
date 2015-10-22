@@ -234,4 +234,4 @@ At the very least, the membership processor needs to support the following actio
 
 ## Deadlines
 
-At the very least, the core Secretarial infrastructure and renewal infrastructure must be delivered by **15 January, 2015**. All other deliverables must be delivered by **15 March, 2015** at the latest.
+At the very least, the core Secretarial infrastructure and renewal infrastructure must be delivered by **15 January, 2016**. All other deliverables must be delivered by **15 March, 2016** at the latest.
